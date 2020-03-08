@@ -1,0 +1,1 @@
+# hizlandirilmis-javascript-kampi
