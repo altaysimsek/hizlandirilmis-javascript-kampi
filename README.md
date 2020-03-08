@@ -1,1 +1,2 @@
 # hizlandirilmis-javascript-kampi
+Deneme
