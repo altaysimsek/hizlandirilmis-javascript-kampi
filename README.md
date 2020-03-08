@@ -1,2 +1,2 @@
 # hizlandirilmis-javascript-kampi
-Deneme yoruumu
+6 Haftalık hızlandırılmış javascript eğitimi.
