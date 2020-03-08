@@ -1,2 +1,2 @@
 # hizlandirilmis-javascript-kampi
-Deneme
+Deneme yoruumu
