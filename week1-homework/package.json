@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "funny project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "funny",
+    "meme",
+    "cat"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
