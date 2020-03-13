@@ -7,6 +7,7 @@
 <h1 align="center">1. Hafta</h1>
 
 ***Ödev hakkında***
+
 ⚔ Bu hafta ki ödevimiz express.js ile ayağa kaldırdığımız sunucumuzun eksik kalan güncelleme kısmını tamamlamak.
 
 
