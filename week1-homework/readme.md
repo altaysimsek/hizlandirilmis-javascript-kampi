@@ -1,27 +1,27 @@
+<p align="center">
+  <a href="https://github.com/PauSiber/blazing-fast-javascript-course">
+    <img alt="blazingfastjs" src="https://i.ibb.co/3B9dZsG/logo.png" width="150" />
+  </a>
+</p>
+<p align="center">by Çağatay Çalı - PAUSiber</p>
+<h1 align="center">1. Hafta</h1>
 
-**Installation**
+***Ödev hakkında***
+⚔ Bu hafta ki ödevimiz express.js ile ayağa kaldırdığımız sunucumuzun eksik kalan güncelleme kısmını tamamlamak.
 
 
-*Project needs node.js runtime. Download from https://nodejs.org/en/download/*
+---
+***API Endpoints***
 
-Or browse & **run** in browser via `repl.it`
+*Ekleme yapmak için*
+> GET: /add/:number
 
-[![Run on Repl.it](https://repl.it/badge/github/pausiber/blazing-fast-javascript-course-homeworks)](https://repl.it/github/pausiber/blazing-fast-javascript-course-homeworks)
+*Silme işlemi için*
 
-**Clone latest code:**
+>GET: /delete/:number
 
-```bash
-git clone git@github.com:pausiber/blazing-fast-javascript-course-homeworks.git
-```
+*Güncelleme işlemi için*
 
-**Install third party packages:**
+>GET: /update/:target/:destination
 
-```bash
-npm install
-```
-
-**Run**
-
-```bash
-node index.js
-```
+[**Denemek için tıkla**](http://jsfirstweek.herokuapp.com/)
